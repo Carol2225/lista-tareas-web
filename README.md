@@ -68,6 +68,12 @@ Los datos se almacenan en el navegador mediante localStorage, permitiendo manten
 
 
 
+## 📸 Captura
+
+![Captura](screenshot.png)
+
+
+
 \## 📂 Estructura del proyecto
 
 
